@@ -1,5 +1,7 @@
 # QuickSiriShortcut
 
+Easy way to add a simple Siri shortcut to your app!
+
 ### .plist:
 ```
 <key>NSUserActivityTypes</key>
