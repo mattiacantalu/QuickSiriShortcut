@@ -304,7 +304,7 @@
 				CODE_SIGN_ENTITLEMENTS = QuickSiriShorcut.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = TVE3XYL8J6;
-				INFOPLIST_FILE = SampleSiriShorcut/Info.plist;
+				INFOPLIST_FILE = QuickSiriShorcut/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -323,7 +323,7 @@
 				CODE_SIGN_ENTITLEMENTS = QuickSiriShorcut.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = TVE3XYL8J6;
-				INFOPLIST_FILE = SampleSiriShorcut/Info.plist;
+				INFOPLIST_FILE = QuickSiriShorcut/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
