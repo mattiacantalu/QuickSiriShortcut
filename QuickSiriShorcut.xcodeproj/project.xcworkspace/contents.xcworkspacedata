@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:SampleSiriShorcut.xcodeproj">
+      location = "self:/Users/mattiacantalu/Xcode/SampleSiriShorcut/QuickSiriShorcut.xcodeproj">
    </FileRef>
 </Workspace>
